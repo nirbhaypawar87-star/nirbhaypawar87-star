@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Engineering (3rd Year) – PVG College
+🎓 Computer Engineering (4th Year) – PVG College
 
 💡 Passionate about Artificial Intelligence, Cybersecurity, Networking, and Software Development.
 
